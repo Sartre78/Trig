@@ -19,30 +19,8 @@
  *
  **/
 
-// libraries
-#include <cs50.h>
-#include <stdio.h>
-#include <math.h>
-#include <ctype.h>
-#include <stdbool.h>
-#include <string.h>
-#include <stdlib.h>
-
 // include trig.h header file
 #include "trig.h"
-
-// function declarations
-float hypotenuse(float x, float y);
-float sine(float x, float y);
-float cosine(float x, float y);
-float tangent(float x, float y);
-float arcsine(float x, float y);
-float arcosine(float x, float y);
-float arctangent(float x, float y);
-float area(float x, float y);
-
-
-
 
 int main (void)
 {
